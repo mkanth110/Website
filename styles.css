@@ -1,0 +1,175 @@
+div {
+    
+}
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    /* lets say we want a 90px font, for it to be dynamic,  have to give it a percentagewe. 100% = 16px. 90px = 562.5%.  */
+    /* WE can also use rem, 1rem = 16px. */
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+   color: #66BFBF;
+   
+
+}
+
+h3 {
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    text-align: left;
+    
+}
+
+hr {
+    border: #EAF6F6 dotted 6px;
+    border-bottom: none;
+    width: 4%;   
+    margin: 100px auto;
+}
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+position: absolute;
+right: 300px;
+top:50px;
+    
+}
+
+.top-container {
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 100px;
+  
+}
+
+
+p {
+    margin-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+
+.middle-container {
+    margin: 100px 0;
+   
+}
+
+
+.bottom-container {
+padding-top: 30px;
+margin-bottom: 0px;
+background-color: #66BFBF;
+
+}
+
+.footer-link {
+    margin-top: 30px;
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    
+}
+
+
+.text {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+
+
+.skill-row {
+    
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.skill1 {
+    color: #40514E;
+}
+
+.skill2 {
+    color: #40514E;
+}
+
+.skill3 {
+    text-align: center;
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+
+.chillies {
+    width: 25%;
+    float: right;
+    margin: 30px;
+}
+
+.bio {
+    margin-bottom: 70px;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #40514E;
+   
+    line-height: 2;
+}
+
+.bio2 {
+  width: 47%;
+  margin: 40px auto 60px;
+   
+   line-height: 2;
+  
+}
+
+
+
